@@ -63,8 +63,8 @@ lazy-object-proxy==1.4.3
 Markdown==3.3.3
 MarkupSafe==1.1.1
 matlab==0.1
-matlab-kernel#==0.16.11
-matlabengineforpython===R2021a
+#matlab-kernel#==0.16.11
+#matlabengineforpython===R2021a
 matplotlib==3.1.1
 mccabe==0.6.1
 metakernel==0.27.5
